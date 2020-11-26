@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: Had a little trouble following the videos, because certain items were not located exacltly as in the videos because it was of an older version. Gradle file gave the most challange to me. Finally the video was using terminal in mac, while I was using command prompt, that presented some challenge as well.
 
 ## License
 
